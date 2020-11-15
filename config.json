@@ -1,5 +1,5 @@
 {
-    "token": "NzcxMTU0MjA5NDkyMDQxNzk4.X5n_Ug.MILST5Ut2B8gGiPaFrOP-CFP-1c",
+    "token": process.env.TOKEN,
     "prefix": "$",
     "greeting": {
         "channel": "771355117185794048",
