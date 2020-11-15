@@ -1,5 +1,5 @@
 {
-    "token": process.env.TOKEN,
+    "token": (process.env.TOKEN),
     "prefix": "$",
     "greeting": {
         "channel": "771355117185794048",
